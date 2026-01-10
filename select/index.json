@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "もっと、キラッと",
+  "base_artist": "MORE STAR",
+  "createdAt": "2026-01-10T10:00:05.934995Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "もっと、キラッと",
+      "artist": "MORE STAR",
+      "has_synced": false,
+      "path": "select/pl_01_もっと、キラッと_MORE_STAR.txt"
+    }
+  ]
+}
